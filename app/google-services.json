@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571464960916",
+    "firebase_url": "https://fir-bd2ed.firebaseio.com",
+    "project_id": "fir-bd2ed",
+    "storage_bucket": "fir-bd2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571464960916:android:69087c3f0c445e23",
+        "android_client_info": {
+          "package_name": "tex.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571464960916-iard1qtlgb7116812dmhgl6b6mf0nleo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tex.com.myapplication",
+            "certificate_hash": "ccb5eefcc34298db65875d6529a2e50a0ba54181"
+          }
+        },
+        {
+          "client_id": "571464960916-l5ogts2a4dbc4unop3ckhsv5oe3s533c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTltVAXGanCZWf-WcEqGDxzwYHMl4Cu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571464960916-l5ogts2a4dbc4unop3ckhsv5oe3s533c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
